@@ -1,1 +1,2 @@
-# Audio File Artist Name Setter
+# Audio File Metadata Setter
+Got hundreds of pirated music with no artist name and track title metadata and it's an eyesore when music players just display the whole filename? Don't worry, I've been through that specific problem, so I created a solution for it. Just download the exe file, and drag & drop your audio files into it. IMPORTANT: The filename format MUST be "(Artist Name) - (Track Title)"
