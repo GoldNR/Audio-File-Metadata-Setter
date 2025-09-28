@@ -24,6 +24,7 @@
     <ProjectGuid>{895bd691-d8a1-4656-b697-8fe649c28b2c}</ProjectGuid>
     <RootNamespace>AudioFileArtistNameSetter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Audio File Metadata Setter</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
